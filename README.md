@@ -47,6 +47,11 @@
 
 ---
 
+
+## 🐍 Contribuições
+
+![snake gif](https://github.com/vic376/vic376/blob/output/github-contribution-grid-snake.svg)
+
 ## 🌱 Atualmente estudando
 
 - Integração Front-end + Back-end
