@@ -41,12 +41,6 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vic376&show_icons=true&theme=tokyonight)
-
----
-
 
 ## 🐍 Contribuições
 
