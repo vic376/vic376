@@ -44,7 +44,8 @@ public class Victoria {
 **🛠️ Na prática**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux,vscode,figma, idea,eclipse&perline=12" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux,vscode,figma,idea,eclipse&perline=12" />
+
 </div>
 
 <div align="center">
@@ -58,7 +59,7 @@ public class Victoria {
 **📖 Conheço a teoria**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,react,ts,idea,eclipse&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,react,ts&perline=10" />
 </div>
 
 <div align="center">
