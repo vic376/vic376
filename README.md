@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8;Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -44,12 +44,12 @@ public class Victoria {
 **🛠️ Na prática**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux&perline=10" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux,vscode,figma&perline=12" />
 </div>
 
 <div align="center">
 
-`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux`
+`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux` `VS Code` `Figma`
 
 </div>
 
@@ -58,12 +58,12 @@ public class Victoria {
 **📖 Conheço a teoria**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=python,react,ts,vscode,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=python,react,ts,idea,eclipse&perline=10" />
 </div>
 
 <div align="center">
 
-`Python` `React` `TypeScript` `APIs REST avançadas` `Testes (JUnit)`
+`Python` `React` `TypeScript` `IntelliJ` `Eclipse` `APIs REST avançadas` `Testes (JUnit)` `Wokwi`
 
 </div>
 
@@ -76,9 +76,6 @@ public class Victoria {
 ![Scrum](https://img.shields.io/badge/Scrum-0d0d0d?style=for-the-badge&logo=scrumalliance&logoColor=A855F7)
 ![Agile](https://img.shields.io/badge/Agile-0d0d0d?style=for-the-badge&logo=agile&logoColor=A855F7)
 ![Redes](https://img.shields.io/badge/Redes_/_Infra-0d0d0d?style=for-the-badge&logo=cisco&logoColor=A855F7)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-0d0d0d?style=for-the-badge&logo=intellijidea&logoColor=A855F7)
-![Eclipse](https://img.shields.io/badge/Eclipse-0d0d0d?style=for-the-badge&logo=eclipseide&logoColor=A855F7)
-![Wokwi](https://img.shields.io/badge/Wokwi-0d0d0d?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=A855F7)
 
 </div>
 
@@ -93,7 +90,7 @@ public class Victoria {
 - 🔗 Integração Front-end + Back-end
 - 🏗️ Arquitetura de Software
 - 📡 APIs e comunicação entre sistemas
-- 🗄️ Banco de Dados 
+- 🗄️ Banco de Dados avançado
 
 ---
 
