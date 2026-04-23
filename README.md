@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+a+Victória!+🌸;Desenvolvedora+em+formação+💻;Java+%26+Spring+Boot+lover+☕;Tech+Girl+Attitude+🖤🩷" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8;Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Java+%26+Spring+Boot+lover+%E2%98%95;Tech+Girl+Attitude+%F0%9F%96%A4%F0%9F%A9%B7" alt="Typing SVG" /></a>
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=Vic376&color=ff69b4&style=flat-square&label=visitors)
+![](https://komarev.com/ghpvc/?username=Vic376&color=a855f7&style=flat-square&label=visitors)
 
 </div>
 
@@ -37,46 +37,32 @@ public class Victoria {
 
 ### 🚀 tecnologias & ferramentas
 
-</div>
-
 <br/>
 
-<div align="center">
-
-**Linguagens**
-
-![Java](https://img.shields.io/badge/Java-FF69B4?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-1a1a1a?style=for-the-badge&logo=javascript&logoColor=FF69B4)
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-
-**Back-end**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=for-the-badge&logo=springboot&logoColor=FF69B4)
-![REST API](https://img.shields.io/badge/REST_API-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node-RED](https://img.shields.io/badge/Node--RED-1a1a1a?style=for-the-badge&logo=nodered&logoColor=FF69B4)
-
-**Front-end**
-
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1a1a1a?style=for-the-badge&logo=css3&logoColor=FF69B4)
-
-**Banco de Dados**
-
-![MySQL](https://img.shields.io/badge/MySQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white)
-
-**IoT**
-
-![Arduino](https://img.shields.io/badge/Arduino-1a1a1a?style=for-the-badge&logo=arduino&logoColor=FF69B4)
-![Wokwi](https://img.shields.io/badge/Wokwi-FF69B4?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
-
-**Ferramentas**
-
-![Git](https://img.shields.io/badge/Git-1a1a1a?style=for-the-badge&logo=git&logoColor=FF69B4)
-![Linux](https://img.shields.io/badge/Linux-FF69B4?style=for-the-badge&logo=linux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-1a1a1a?style=for-the-badge&logo=figma&logoColor=FF69B4)
-![IntelliJ](https://img.shields.io/badge/IntelliJ-FF69B4?style=for-the-badge&logo=intellijidea&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-1a1a1a?style=for-the-badge&logo=eclipseide&logoColor=FF69B4)
-![VS Code](https://img.shields.io/badge/VS_Code-FF69B4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+<table>
+  <tr>
+    <td align="center"><b>Back-End</b></td>
+    <td align="center"><b>Front-End</b></td>
+    <td align="center"><b>Outros</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,python,spring,mysql&perline=5" />
+      <br/><br/>
+      Java, JavaScript, Python,<br/>Spring Boot, MySQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html,css,figma&perline=3" />
+      <br/><br/>
+      HTML, CSS, Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,linux,vscode,eclipse,arduino&perline=5" />
+      <br/><br/>
+      Git, Linux, VS Code,<br/>Eclipse, Arduino
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -91,7 +77,7 @@ public class Victoria {
 - 🔗 Integração Front-end + Back-end
 - 🏗️ Arquitetura de Software
 - 📡 APIs e comunicação entre sistemas
-- 🗄️ Banco de Dados avançado
+- 🗄️ Banco de Dados 
 
 ---
 
@@ -101,12 +87,12 @@ public class Victoria {
 
 <br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vic376&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&border_color=FF69B4&hide_border=false" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic376&layout=compact&theme=dark&bg_color=0d0d0d&title_color=FF69B4&text_color=ffffff&border_color=FF69B4" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Vic376&show_icons=true&theme=dark&bg_color=0d0d0d&title_color=A855F7&icon_color=A855F7&text_color=ffffff&border_color=A855F7" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic376&layout=compact&theme=dark&bg_color=0d0d0d&title_color=A855F7&text_color=ffffff&border_color=A855F7" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vic376&theme=dark&background=0d0d0d&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&border=FF69B4" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vic376&theme=dark&background=0d0d0d&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&border=A855F7" />
 
 </div>
 
@@ -114,13 +100,11 @@ public class Victoria {
 
 <div align="center">
 
-### 🩷 vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Vic376)
-[![GitHub](https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=FF69B4)](https://github.com/Vic376)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/Vic376)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/Vic376)
 
 <br/>
 
-![](https://capsule-render.vercel.app/api?type=waving&color=FF69B4&height=100&section=footer)
+![](https://capsule-render.vercel.app/api?type=waving&color=A855F7&height=100&section=footer)
 
 </div>
