@@ -44,12 +44,12 @@ public class Victoria {
 **🛠️ Na prática**
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux,vscode,figma&perline=12" />
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux,vscode,figma, idea,eclipse&perline=12" />
 </div>
 
 <div align="center">
 
-`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux` `VS Code` `Figma`
+`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux` `VS Code` `Figma` `Wokwi` `IntelliJ` `Eclipse`
 
 </div>
 
@@ -63,7 +63,7 @@ public class Victoria {
 
 <div align="center">
 
-`Python` `React` `TypeScript` `IntelliJ` `Eclipse` `APIs REST avançadas` `Testes (JUnit)` `Wokwi`
+`Python` `React` `TypeScript` `APIs REST avançadas` `Testes (JUnit)` 
 
 </div>
 
@@ -90,7 +90,7 @@ public class Victoria {
 - 🔗 Integração Front-end + Back-end
 - 🏗️ Arquitetura de Software
 - 📡 APIs e comunicação entre sistemas
-- 🗄️ Banco de Dados avançado
+- 🗄️ Banco de Dados 
 
 ---
 
