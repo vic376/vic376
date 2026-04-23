@@ -100,6 +100,12 @@ public class Victoria {
 ---
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Vic376/Vic376/output/github-snake-dark.svg" alt="snake" />
+</div>
+
+---
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=A855F7)](https://linkedin.com/in/Vic376)
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=A855F7)](https://github.com/Vic376)
