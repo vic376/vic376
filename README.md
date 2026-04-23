@@ -25,7 +25,8 @@ public class Victoria {
     String   status       = "Transformando ideias em sistemas funcionais 🚀";
 
     String about() {
-        return "Sempre buscando unir funcionalidade com organização e design. ✨";
+        return "Apaixonada por back-end tanto quanto pela experiência do usuário. "
+             + "Sempre buscando unir funcionalidade com organização e design. ✨";
     }
 }
 ```
@@ -36,32 +37,48 @@ public class Victoria {
 
 ### 🚀 Tecnologias & ferramentas
 
+</div>
+
 <br/>
 
-<table>
-  <tr>
-    <td align="center"><b>Back-End</b></td>
-    <td align="center"><b>Front-End</b></td>
-    <td align="center"><b>Outros</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,js,python,spring,mysql&perline=5" />
-      <br/><br/>
-      Java, JavaScript, Python,<br/>Spring Boot, MySQL
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,figma&perline=3" />
-      <br/><br/>
-      HTML, CSS, Figma
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,linux,vscode,eclipse,arduino&perline=5" />
-      <br/><br/>
-      Git, Linux, VS Code,<br/>Eclipse, Arduino
-    </td>
-  </tr>
-</table>
+**🛠️ Na prática**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux&perline=10" />
+</div>
+
+<div align="center">
+
+`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux`
+
+</div>
+
+<br/>
+
+**📖 Conheço a teoria**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,react,ts,vscode,figma&perline=10" />
+</div>
+
+<div align="center">
+
+`Python` `React` `TypeScript` `APIs REST avançadas` `Testes (JUnit)`
+
+</div>
+
+<br/>
+
+**⚙️ Metodologias**
+
+<div align="center">
+
+![Scrum](https://img.shields.io/badge/Scrum-0d0d0d?style=for-the-badge&logo=scrumalliance&logoColor=A855F7)
+![Agile](https://img.shields.io/badge/Agile-0d0d0d?style=for-the-badge&logo=agile&logoColor=A855F7)
+![Redes](https://img.shields.io/badge/Redes_/_Infra-0d0d0d?style=for-the-badge&logo=cisco&logoColor=A855F7)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-0d0d0d?style=for-the-badge&logo=intellijidea&logoColor=A855F7)
+![Eclipse](https://img.shields.io/badge/Eclipse-0d0d0d?style=for-the-badge&logo=eclipseide&logoColor=A855F7)
+![Wokwi](https://img.shields.io/badge/Wokwi-0d0d0d?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=A855F7)
 
 </div>
 
