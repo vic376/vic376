@@ -1,10 +1,7 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8" /></a>
 
-<br/>
-
-![](https://komarev.com/ghpvc/?username=Vic376&color=a855f7&style=flat-square&label=visitors)
 
 </div>
 
@@ -22,11 +19,10 @@ public class Victoria {
     String[] focusAreas   = {"Java", "Spring Boot", "Back-end"};
     String[] interests    = {"UI/UX", "IoT", "Integrações de sistemas"};
     String   location     = "Brasil 📍";
-    String   status       = "Transformando ideias em sistemas funcionais 🚀";
+    String   status       = "Transformando ideias em sistemas funcionais";
 
     String about() {
-        return "Apaixonada por back-end tanto quanto pela experiência do usuário. "
-             + "Sempre buscando unir funcionalidade com organização e design. ✨";
+        return "Sempre buscando unir funcionalidade com organização e design.";
     }
 }
 ```
@@ -48,6 +44,7 @@ public class Victoria {
 
 </div>
 
+<br/>
 <div align="center">
 
 `Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux` `VS Code` `Figma` `Wokwi` `IntelliJ` `Eclipse`
@@ -55,12 +52,14 @@ public class Victoria {
 </div>
 
 <br/>
+<br/>
 
 **📖 Conheço a teoria**
 
 <div align="center">
 <img src="https://skillicons.dev/icons?i=python,react,ts&perline=10" />
 </div>
+<br/>
 
 <div align="center">
 
@@ -68,6 +67,7 @@ public class Victoria {
 
 </div>
 
+<br/>
 <br/>
 
 **⚙️ Metodologias**
@@ -79,19 +79,6 @@ public class Victoria {
 ![Redes](https://img.shields.io/badge/Redes_/_Infra-0d0d0d?style=for-the-badge&logo=cisco&logoColor=A855F7)
 
 </div>
-
----
-
-<div align="center">
-
-### 🌱 Atualmente estudando
-
-</div>
-
-- 🔗 Integração Front-end + Back-end
-- 🏗️ Arquitetura de Software
-- 📡 APIs e comunicação entre sistemas
-- 🗄️ Banco de Dados 
 
 ---
 
