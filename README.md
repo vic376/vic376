@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8;Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB;Java+%26+Spring+Boot+lover+%E2%98%95;Tech+Girl+Attitude+%F0%9F%96%A4%F0%9F%A9%B7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8;Desenvolvedora+em+forma%C3%A7%C3%A3o+%F0%9F%92%BB" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-### 🖤 sobre mim 🩷
+### 🖤 Sobre mim 
 
 </div>
 
@@ -25,8 +25,7 @@ public class Victoria {
     String   status       = "Transformando ideias em sistemas funcionais 🚀";
 
     String about() {
-        return "Apaixonada por back-end tanto quanto pela experiência do usuário. "
-             + "Sempre buscando unir funcionalidade com organização e design. ✨";
+        return "Sempre buscando unir funcionalidade com organização e design. ✨";
     }
 }
 ```
@@ -35,7 +34,7 @@ public class Victoria {
 
 <div align="center">
 
-### 🚀 tecnologias & ferramentas
+### 🚀 Tecnologias & ferramentas
 
 <br/>
 
@@ -70,7 +69,7 @@ public class Victoria {
 
 <div align="center">
 
-### 🌱 atualmente estudando
+### 🌱 Atualmente estudando
 
 </div>
 
@@ -83,7 +82,7 @@ public class Victoria {
 
 <div align="center">
 
-### 📊 github stats
+### 📊 Github stats
 
 <br/>
 
