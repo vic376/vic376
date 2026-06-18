@@ -1,31 +1,17 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!+%F0%9F%8C%B8" /></a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+a+Vict%C3%B3ria!" /></a>
 
 </div>
-
----
 
 <div align="center">
-
-### 🖤 Sobre mim 
-
+  <img src="https://img.shields.io/badge/Java-0d0d0d?style=for-the-badge&logo=openjdk&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-0d0d0d?style=for-the-badge&logo=springboot&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Scrum%20Master-0d0d0d?style=for-the-badge&logo=scrumalliance&logoColor=A855F7" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0d0d0d?style=for-the-badge&logo=archlinux&logoColor=A855F7" />
 </div>
 
-```java
-public class Victoria {
-
-    String[] focusAreas   = {"Java", "Spring Boot", "Back-end"};
-    String[] interests    = {"UI/UX", "IoT", "Integrações de sistemas"};
-    String   location     = "Brasil 📍";
-    String   status       = "Transformando ideias em sistemas funcionais";
-
-    String about() {
-        return "Sempre buscando unir funcionalidade com organização e design.";
-    }
-}
-```
+<br/>
 
 ---
 
@@ -37,54 +23,72 @@ public class Victoria {
 
 <br/>
 
-**🛠️ Na prática**
+<table align="center" border="0">
+<tr>
+<td align="center" width="9999">
 
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,arduino,linux,vscode,figma,idea,eclipse&perline=12" />
+**Dia a dia**
 
-</div>
+<img src="https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,git,docker,idea,vscode&perline=10" />
+
+<sub>`Java` · `Spring Boot` · `JavaScript` · `HTML/CSS` · `MySQL` · `Git` · `Docker` · `IntelliJ` · `VS Code`</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
-<div align="center">
 
-`Java` `Spring Boot` `JavaScript` `HTML` `CSS` `MySQL` `Git` `Docker` `Arduino` `Linux` `VS Code` `Figma` `Wokwi` `IntelliJ` `Eclipse`
+<table align="center" border="0">
+<tr>
+<td align="center" width="9999">
 
-</div>
+**Hardware & design**
+
+<img src="https://skillicons.dev/icons?i=arduino,linux,figma,eclipse&perline=10" />
+
+<sub>`Arduino` · `Wokwi` · `Linux` · `Figma` · `Eclipse`</sub>
+
+</td>
+</tr>
+</table>
 
 <br/>
-<br/>
 
-**📖 Conheço a teoria**
+<table align="center" border="0">
+<tr>
+<td align="center" width="9999">
 
-<div align="center">
+**Conheço a teoria**
+
 <img src="https://skillicons.dev/icons?i=python,react,ts&perline=10" />
-</div>
+
+<sub>`Python` · `React` · `TypeScript` · `APIs REST avançadas` · `Testes (JUnit)`</sub>
+
+</td>
+</tr>
+</table>
+
 <br/>
 
 <div align="center">
 
-`Python` `React` `TypeScript` `APIs REST avançadas` `Testes (JUnit)` 
+**Metodologias & práticas**
+
+<img src="https://img.shields.io/badge/Scrum-A855F7?style=for-the-badge&logo=scrumalliance&logoColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Agile-A855F7?style=for-the-badge&logo=agile&logoColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Clean_Architecture-A855F7?style=for-the-badge&logo=archlinux&logoColor=0d0d0d" />
+<img src="https://img.shields.io/badge/Redes_/_Infra-A855F7?style=for-the-badge&logo=cisco&logoColor=0d0d0d" />
 
 </div>
 
 <br/>
-<br/>
-
-**⚙️ Metodologias**
-
-<div align="center">
-
-![Scrum](https://img.shields.io/badge/Scrum-0d0d0d?style=for-the-badge&logo=scrumalliance&logoColor=A855F7)
-![Agile](https://img.shields.io/badge/Agile-0d0d0d?style=for-the-badge&logo=agile&logoColor=A855F7)
-![Redes](https://img.shields.io/badge/Redes_/_Infra-0d0d0d?style=for-the-badge&logo=cisco&logoColor=A855F7)
-
-</div>
 
 ---
 
 <div align="center">
 
-### 📊 Github stats
+### Github stats
 
 <br/>
 
